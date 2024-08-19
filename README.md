@@ -3,4 +3,6 @@
 App hecha con React para practicar uso de
 
 - Hooks
-- Protección de rutas
+- Reducer
+- Protección de rutas (Rutas publicas y privadas)
+- Simulación de login/logout
